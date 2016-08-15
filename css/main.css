@@ -1,0 +1,136 @@
+body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+/*header*/
+#portafolio{
+	color:#EE5836;
+}
+
+.boton{
+	color: white;
+	background-color: #F05F40;
+}
+
+/*section1*/
+.fondo{
+    background-image: url(../img/header.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    height: 600px;
+    margin-top: -20%;
+    padding-bottom: 61%;
+}
+
+.fondo .contenido{
+	padding: 15%;
+}
+
+hr{
+	border: solid #F36040;   
+    margin-top: 4%;
+    margin-bottom: 4%;
+	width: 5%;
+}
+
+h1{
+	padding-top: 11%;
+    text-align: center;
+}
+
+#parrafo{
+	color: #EAD6DA;
+    text-align: center;
+    padding: 2% 20%;
+}
+/*section2*/
+.section2{
+	background-color: #F05F40;
+    margin-top: -6%;
+    padding: 7%;
+    color: white;
+}
+/*section3*/
+.section3{
+	height: 500px;
+}
+.servicios{
+	padding-top: 7%;
+}
+.icon-prev{
+    color: #F05F40;
+    font-size: 48px;
+
+}
+.iconos{
+	float: left;
+    width: 25%;	
+}
+.subtema{
+    font-size: 28px;
+    color: #4E3A56;
+}
+.desarrollo{
+	font-size: 15px;
+}
+
+/*section4*/
+
+.img1{
+	background: url(../img/1.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 260px;
+	-webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+}
+.img2{
+	background: url(../img/2.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 260px;
+	-webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+}
+.img3{
+	background: url(../img/3.jpg);
+	background-size: 100% ;	
+	background-repeat: no-repeat;
+	height: 260px;
+	-webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+}
+.img4{
+	background: url(../img/4.jpg);
+	background-size: 100% cover;
+	background-repeat: no-repeat;
+	height: 260px;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.img5{
+	background: url(../img/5.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	height: 260px;
+	-webkit-background-size: auto;
+    -moz-background-size: auto;
+    -o-background-size: auto;
+}
+.img6{
+	background: url(../img/6.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	height: 260px;
+	-webkit-background-size: auto;
+    -moz-background-size: auto;
+    -o-background-size: auto;
+}
